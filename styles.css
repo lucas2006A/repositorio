@@ -20,3 +20,14 @@
      height: 15px;
      border-radius: 50%;
 }
+.imagem img{
+    with: 50px;
+    height: 50px;
+     border-radius: 5%;/* torna a imgem circular*/
+    object-fit: cover;/* garant que a imagm cuba todo o espaço */
+
+}
+
+rodape {
+     height: 15;
+}
